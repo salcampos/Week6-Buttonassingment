@@ -1,0 +1,40 @@
+/*Your CSS code goes below this line*/
+.one {
+background-color: lightgreen;
+border: none;
+color: rgb(255, 255, 255);
+padding: 14px 40px;
+border-radius: 5px;
+font-size: 20px;
+}
+.two {
+    background-color: lightsalmon;
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 14px 40px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.three {
+background-color: plum;
+border: none;
+color: rgb(255, 255, 255);
+padding: 14px 40px;
+border-radius: 5px;
+font-size: 20px;
+}
+.three:hover {
+    background-color: rgb(189, 120, 189);
+    color: white;
+    border: none;
+}
+.two:hover {
+    background-color: rgb(206, 125, 93);
+    color: white;
+    border: none;
+}
+.one:hover {
+    background-color: rgb(116, 196, 116);
+    color: white;
+    border: none;
+}
